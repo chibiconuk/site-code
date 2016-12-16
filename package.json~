@@ -1,0 +1,19 @@
+{
+  "name": "chibicon",
+  "version": "1.0.0",
+  "description": "Description so NPM shuts up :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Wood",
+  "license": "ISC",
+  "repository": "dunno what goes here, don't really care."
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "babel-preset-es2016": "^6.16.0",
+    "grunt-babel": "^6.0.0"
+  }
+}
