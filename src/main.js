@@ -93,7 +93,7 @@ function Activities() {
 		    <Panel>
 			<h3>Events</h3>
 			<h4>Dancers - 11am-11:30am</h4>
-			<h4>SciFi - 12pm-1pm</h4>
+			<h4>Guest Speaker - 12pm-1pm</h4>
 			<h4>J-fashion show - 1:30pm-2:30pm</h4>
 			<p>There are many different fashions out there so we want to give you a chance to show off your own style. Whether you are a Lolita, if you wear visual kei or any other fashion all are welcome. If you would like to take part tell us your name at: <a href="mailto:chibiconuk@gmail.com">chibiconuk@gmail.com</a></p>
 			<h4>Cosparade - 3pm-4pm</h4>
