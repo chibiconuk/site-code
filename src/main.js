@@ -53,7 +53,7 @@ function Home() {
 		    <Panel>
 			<p>Chibi-Con is the first anime convention held at the University of Essex. It is hosted by the Anime and Manga Society. We have been to many conventions across the country and we enjoyed them so much we wanted to have a go at making our own. We want to include as many societies at our university as possible as well as local businesses. We will also be inviting performers to come and join us. There will be a variety of events and stalls throughout the day to keep you busy.</p>
 			<p>We hope you will join us for what we hope to be the start of a new chapter here at the University of Essex.</p>
-			<p>Chibi-Con will be held on <b>Saturday 28th January 2017</b>. Opening times are 10am – 6pm. Last entry 5:30pm.</p>
+			<p>Chibi-Con will be held on <b>Saturday 25th February 2017</b>. Opening times are 10am – 6pm. Last entry 5:30pm.</p>
 		    </Panel>
 		</Col>
 	    </Row>
@@ -91,8 +91,16 @@ function Activities() {
 	    <Row>
 		<Col xs={12}>
 		    <Panel>
-			<p>We are planning on having a Cosparade where you can show off your skills.  If you would like to take part tell us your name and character you plan on cosplaying at: <a href="mailto:chibiconuk@gmail.com">chibiconuk@gmail.com</a></p>
-			<p>There will also be a J-fashion show so if you like to wear lolita, visual kei, fairy kei or any other fashions and would like to take part email us at: <a href="mailto:chibiconuk@gmail.com">chibiconuk@gmail.com</a></p>
+			<h3>Events</h3>
+			<h4>Dancers - 11am-11:30am</h4>
+			<h4>SciFi - 12pm-1pm</h4>
+			<h4>J-fashion show - 1:30pm-2:30pm</h4>
+			<p>There are many different fashions out there so we want to give you a chance to show off your own style. Whether you are a Lolita, if you wear visual kei or any other fashion all are welcome. If you would like to take part tell us your name at: <a href="mailto:chibiconuk@gmail.com">chibiconuk@gmail.com</a></p>
+			<h4>Cosparade - 3pm-4pm</h4>
+			<p>Participants will be able to strut their stuff on stage and show off all their hard work and the best costume will win the grand prize. Feel free to act out your character. Both handmade and bought cosplays will be welcome. If you would like to take part tell us your name and the character you will be playing at: <a href="mailto:chibiconuk@gmail.com">chibiconuk@gmail.com</a></p>
+			<h4>Dancers - 4:30pm-5pm</h4>
+			<h4>Raffle and Cosparade Winner Announcement - 5pm onwards</h4>
+			
 			<h3>For Exhibitors</h3>
 			<p>If you would like to sell your wares at our convention contact us either by our Facebook page or by email at <a href="mailto:chibiconuk@gmail.com">chibiconuk@gmail.com</a> (Exhibitors will get free entry)</p>
 			<h3>For Performers</h3>
@@ -110,9 +118,9 @@ function Tickets() {
 	    <Row>
 		<Col xs={12}>
 		    <Panel>
-			<p>Tickets will be on sale soon (Exhibitors and Performers do not need to buy tickets)</p>
+			<p>Tickets are on sale <a href="https://www.eventbrite.co.uk/e/chibi-con-2017-tickets-31367252296">now</a>. (Exhibitors and Performers do not need to buy tickets)</p>
 			<p>Bring ID with you when you collect your tickets as under 18s will require a separate wristband.</p>
-			<p>Chibi-Con will be held on Saturday 28th January 2017. Opening times are 10am – 6pm. Last entry 5:30pm.</p>
+			<p>Chibi-Con will be held on Saturday 25th February 2017. Opening times are 10am – 6pm. Last entry 5:30pm.</p>
 		    </Panel>
 		</Col>
 	    </Row>
